@@ -7,8 +7,9 @@
 2. **Set CSV Output Path** - Specify the path where you would like the resulting CSV saved.
 3. **Configure Rows and Columns** - Set the number of rows and columns you require.
 4. **Set Point Size** - Customise the point size variable.
-5. **Align the Grid** - Move the corner points of the grid to align with the corner patches in your image.
-6. **Save the CSV** - Once you have placed the points where you want them, press "s" to save the CSV.
+5. **Run the Script** - Run the script to initialise the Pygame window.
+6. **Align the Grid** - Move the corner points of the grid to align with the corner patches in your image.
+7. **Save the CSV** - Once you have placed the points where you want them, press "s" to save the CSV.
 
 The corner points shape the grid using bilinear interpolation, while all other points have local control.
 
