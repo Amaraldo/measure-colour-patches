@@ -1,6 +1,6 @@
 # measure-colour-patches
 
-`measure-colour-patches` is a Python script that automates the usually tedious task of measuring individual colour patches from an image. This script uses Pygame and works by averaging the RGB values of every pixel within a specific point (to avoid erroneous noise values), outputting the averaged, normalised RGB values to a CSV file.
+`measure-colour-patches` is a Python script that simplifies the usually tedious task of measuring individual colour patches from an image. This script uses Pygame and works by averaging the RGB values of every pixel within a specific point (to avoid erroneous noise values), outputting the averaged, normalised RGB values to a CSV file.
 
 ## How to Use
 1. **Set Image Path** - Specify the path of the image.
